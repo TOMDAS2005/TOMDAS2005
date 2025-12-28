@@ -1,12 +1,18 @@
-- 👋 Hi, I’m @TOMDAS2005
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Tanmoy Das
+📍 Kolkata, India | 📧 dastanmoy0405@gmail.com
 
-<!---
-TOMDAS2005/TOMDAS2005 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Full-stack Developer passionate about building scalable web applications and open-source tools. I specialize in JavaScript/TypeScript ecosystems and have experience working with modern frameworks and cloud technologies. Always eager to learn and contribute to meaningful projects.
+
+
+Languages: JavaScript, TypeScript, Python, Java
+
+Frontend: React, Next.js, Vue.js, Tailwind CSS
+
+🌱 Currently Learning
+Machine Learning with TensorFlow
+
+Blockchain development (Ethereum, Solidity)
+
+Advanced System Design
+
+
