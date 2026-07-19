@@ -4,8 +4,7 @@ Tanmoy Das
 Full-stack Developer passionate about building scalable web applications and open-source tools. I specialize in JavaScript/TypeScript ecosystems and have experience working with modern frameworks and cloud technologies. Always eager to learn and contribute to meaningful projects.
 
 
-Languages: JavaScript, TypeScript, Python, Java
-
+Languages: HTML,CSS, TypeScript, Python
 Frontend: React, Next.js, Vue.js, Tailwind CSS
 
 🌱 Currently Learning
